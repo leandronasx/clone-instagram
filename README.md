@@ -2,6 +2,8 @@
 
 <p align="justify">Página inicial do instagram, desafio do bootcamp HTML Web Developer da Digital Innovation One.</p>
 
+<a href="https://clone-instagram-leandro.netlify.app/">Quere ver</a>
+
 <h4 align="center"> 
 	✅ INSTAGRAM 🚀  CONCLUÍDO ✅
 </h4>
