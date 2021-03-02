@@ -9,9 +9,6 @@
 </h4>
 
 ---
-<hr>
-
----
 
 <h2> 📱 Demonstração  da tela 📱</h2>
 

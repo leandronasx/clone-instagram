@@ -64,9 +64,11 @@ main section:last-child form input{
     border-radius: 3px;
 }
 main section:last-child form input[type="submit"]{
+    width: 71%;
     color: #fff;
     background-color: #0095f6;
-    border-color: #0095f6;
+    border: 2px solid #0095f6;
+    cursor: pointer;
 }
 
 .barra{
@@ -130,6 +132,7 @@ h4{
 .download-app img{
     max-width: 150px;
     margin-right: 20px;
+    cursor: pointer;
 }
 .download-app img:last-child{
     margin-right: 0;
